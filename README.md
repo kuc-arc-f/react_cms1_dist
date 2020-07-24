@@ -6,7 +6,7 @@
 
  date    : 2020/07/23
 
- update  :
+ update  : 2020/07/24
 
 ***
 ### Summary
@@ -20,6 +20,8 @@ React build, cms display app
 
 ***
 ### Blog :
+
+https://note.com/knaka0209/n/n19da409058bc
 
 ***
 
